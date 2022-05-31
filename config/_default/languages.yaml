@@ -10,6 +10,10 @@ en:
 ru:
   languageCode: ru
   contentDir: content/ru
+  title: ru website title...
+  params:
+   description: ru description in Chinese...
+  
 # Uncomment the lines below to configure your website in a second language.
 #zh:
 #  languageCode: zh-Hans
